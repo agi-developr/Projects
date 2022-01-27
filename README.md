@@ -1,5 +1,5 @@
 
-Hi here is my Vector Calculator 2D and 3D Spase
+Hi here is my Vector Calculator 2D
 
 To calculate 2D Vectors [click here]()
 
