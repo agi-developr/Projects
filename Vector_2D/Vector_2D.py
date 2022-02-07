@@ -1,3 +1,4 @@
+# Addition 2 vectors + Visualizing
 import matplotlib.pyplot as plt
 import numpy as np
 
