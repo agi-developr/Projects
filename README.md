@@ -7,4 +7,4 @@ Random Quiz Generator: [click here](https://github.com/agi-developr/Projects/blo
 
 
 Auto Copy clipboard[clic here](https://github.com/agi-developr/Projects/blob/main/Auto_copy/auto_copy.py)
-# This program writes everything you copied to a file
+This program writes everything you copied to a file
