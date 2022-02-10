@@ -10,8 +10,7 @@ def solution(n):
         elif int(k) == 1:
             max_b = max(max_b, b)
             b = 0
-        else:
-            pass
+            
     print(max_b)
 
 
